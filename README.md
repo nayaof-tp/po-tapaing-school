@@ -1,2 +1,2 @@
-# tapaing-school
-school_webapp-po
+# tapaing-school-po
+school_webapp
